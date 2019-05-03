@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 ### If you are trying to organize a Coding Dojo
 
@@ -48,3 +49,6 @@ Suggested reading: https://codurance.com/2014/12/13/naming-test-classes-and-meth
 Suggested reading: http://blog.cleancoder.com/uncle-bob/2014/12/17/TheCyclesOfTDD.html
 
 ### And remember, the most important part is to Enjoy!
+=======
+# RPGkata
+>>>>>>> 52c038e0cf2e7e547bcb5106e96711996b833e4c
